@@ -20,7 +20,7 @@ Start the app on http://localhost:3000
 
 ## Technologies Used
 
-1. Javascript
+1. HTML5, CSS3, Javascript
 2. ReactJS with functional compoents, hooks and context
 3. Open Weather API
 4. Open Geolocation API
